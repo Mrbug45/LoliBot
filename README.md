@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Vaniafck/LoliBot/main/media/img/Kaguya.png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="LoliBot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LoliBot" src="https://img.shields.io/badge/LoliBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Vaniafck"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
