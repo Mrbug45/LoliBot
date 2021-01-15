@@ -1,2 +1,0 @@
-# LoliBot
-Bot Whatsap
