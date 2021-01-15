@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/Vaniafck/LoliBot.git
 ```
 
 ## Install the dependencies:
@@ -110,4 +110,4 @@ Fix Stuck on linux, install google chrome stable:
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`Saweria`](https://saweria.co/donate/Uz12)
